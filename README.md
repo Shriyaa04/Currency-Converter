@@ -3,4 +3,4 @@
 https://2024-03-06.currency-api.pages.dev/v1/currencies/usd.json
 
 <h3>Flag link</h3>
-<img src="https://flagsapi.com/BE/flat/64.png">
+https://flagsapi.com/BE/flat/64.png
